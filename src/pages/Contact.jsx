@@ -14,13 +14,13 @@ const Contact = () => {
           <p className="font-semibold text-xl">Our Store</p>
 
           <p>
-            Bharatpur-10 Hakimchowk, Chitwan
+            Bharatpur, Chitwan
             <br />
             Bagmati Province, Nepal
           </p>
 
           <p>
-            Tel: (+977) 9845012367
+            Tel: (+977) 9801234567
             <br />
             Email: myfashionstore@gmail.com
           </p>
